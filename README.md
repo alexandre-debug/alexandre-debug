@@ -23,13 +23,14 @@ Most of my professional work is developed in **private repositories**, following
 
 ### Frontend & Mobile
 - React, Next.js
-- React Native, Ionic
+- React Native, Ionic, Vue
 - TypeScript, JavaScript, HTML, CSS
 
 ### Backend
 - Node.js (Fastify, Express)
 - Java (Spring Boot)
 - PHP (Laravel)
+- C#
 - RESTful APIs, Microservices
 
 ### Databases
