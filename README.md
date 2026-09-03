@@ -10,38 +10,6 @@ Most of my professional work lives in private repositories under enterprise secu
 
 ---
 
-## Selected Projects
-
-### INTELIBLEND — industrial process & inventory optimization
-🔗 [inteliblend.com](https://www.inteliblend.com/)
-
-Intelligent system for optimizing industrial processes and inventory in a
-metallurgy operation. Combines production and inventory data with LLM-assisted
-analysis over a RAG architecture, surfacing recommendations for material
-planning and process efficiency.
-
-**Stack:** Node.js, Fastify, Python, OpenAI, Gemini, LangChain, PgVector, PostgreSQL, Docker, Jenkins
-
----
-
-### StayCalc — Schengen stay management
-🔗 [staycalc.com](https://staycalc.com)
-
-Platform for tracking and forecasting time spent in the Schengen Area, with analytics and AI-assisted insights. Handles the 90/180 rolling-window rule, which is deceptively hard to compute correctly across multiple entries and exits.
-
-**Stack:** React, Next.js, Supabase, PostgreSQL, Prisma, Docker
-
----
-
-### Mapster — travel social platform
-🔗 [mapster.com.br](https://mapster.com.br)
-
-Social platform for independent travelers, with AI-based recommendations built on user preferences and trip history.
-
-**Stack:** React, Next.js, Supabase, PostgreSQL, Docker
-
----
-
 ## Tech Stack
 
 **AI & LLM**
@@ -97,6 +65,38 @@ Full digital transformation of an industrial manufacturer. Built a custom ERP fr
 ## Languages
 
 Portuguese (native) · English (B2/C1, professional) · Spanish (B1)
+
+---
+
+## Selected Projects
+
+### INTELIBLEND — industrial process & inventory optimization
+🔗 [inteliblend.com](https://www.inteliblend.com/)
+
+Intelligent system for optimizing industrial processes and inventory in a
+metallurgy operation. Combines production and inventory data with LLM-assisted
+analysis over a RAG architecture, surfacing recommendations for material
+planning and process efficiency.
+
+**Stack:** Node.js, Fastify, Python, OpenAI, Gemini, LangChain, PgVector, PostgreSQL, Docker, Jenkins
+
+---
+
+### StayCalc — Schengen stay management
+🔗 [staycalc.com](https://staycalc.com)
+
+Platform for tracking and forecasting time spent in the Schengen Area, with analytics and AI-assisted insights. Handles the 90/180 rolling-window rule, which is deceptively hard to compute correctly across multiple entries and exits.
+
+**Stack:** React, Next.js, Supabase, PostgreSQL, Prisma, Docker
+
+---
+
+### Mapster — travel social platform
+🔗 [mapster.com.br](https://mapster.com.br)
+
+Social platform for independent travelers, with AI-based recommendations built on user preferences and trip history.
+
+**Stack:** React, Next.js, Supabase, PostgreSQL, Docker
 
 ---
 
