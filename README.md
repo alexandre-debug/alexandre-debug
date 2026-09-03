@@ -12,10 +12,13 @@ Most of my professional work lives in private repositories under enterprise secu
 
 ## Selected Projects
 
-### Sistema Sofia — AI process automation
-🔗 [sistemasofia.com.br](https://sistemasofia.com.br)
+### INTELIBLEND — industrial process & inventory optimization
+🔗 [inteliblend.com](https://www.inteliblend.com/)
 
-AI-powered platform for business process automation built on a RAG architecture. Handles document ingestion, chunking and embedding, semantic retrieval over a vector store, and grounded LLM responses with observability on every call.
+Intelligent system for optimizing industrial processes and inventory in a
+metallurgy operation. Combines production and inventory data with LLM-assisted
+analysis over a RAG architecture, surfacing recommendations for material
+planning and process efficiency.
 
 **Stack:** Node.js, Fastify, Python, OpenAI, Gemini, LangChain, PgVector, PostgreSQL, Docker, Jenkins
 
