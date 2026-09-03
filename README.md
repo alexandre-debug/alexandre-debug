@@ -69,6 +69,9 @@ Led the AI squad implementing LLM integrations and RAG systems with LangChain an
 ### Senior Solutions Engineer — BlueTicket
 High-scale ticket sales platform sustaining tens of millions of requests at peak. Distributed microservices architecture on Node.js/Fastify, AI chatbot in Python using RAG with Langfuse observability, and AWS infrastructure across Lambda, Auto Scaling, VPC and ElastiCache.
 
+### Senior Fullstack Engineer — Systemsat
+Real-time vehicle route management system for fleet tracking operations. Fullstack platform with a React frontend and C#/.NET backend, live tracking over REST APIs and WebSockets, and CI/CD on Azure DevOps.
+
 ### Senior Software Engineer / Tech Lead — Global Hitss
 National biometric identification system for a Brazilian federal government agency, processing millions of records. Led a cross-functional team of 6 engineers. Java Spring Boot, Oracle SQL, DDD and SOLID, with CI/CD on Jenkins cutting deployment time by 60%.
 
