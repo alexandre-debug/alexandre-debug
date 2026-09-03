@@ -1,150 +1,100 @@
-# 👋 Hi, I'm Alexandre Cardoso
+# Alexandre Cardoso
 
-Senior **Full Stack Software Engineer / Tech Lead** with strong experience in **scalable systems, mobile and web platforms, cloud infrastructure, and AI-driven solutions**.
+**Senior AI Engineer** — LLM, RAG & AI Agents in Production | Cloud & Distributed Systems
 
-I have led and architected **mission-critical government systems**, **high-performance SaaS platforms**, and **AI-powered products**, working across frontend, backend, DevOps, and architecture layers.
+10+ years building scalable software platforms, now focused on production-grade Generative AI: LLM applications, RAG pipelines, AI agents, vector databases and LLMOps.
 
-Most of my professional work is developed in **private repositories**, following enterprise-grade standards, security, and compliance.
+I've architected mission-critical government systems, high-scale consumer platforms handling tens of millions of requests, and AI-powered enterprise products — across backend, cloud, DevOps and architecture.
 
----
-
-## 🚀 Core Expertise
-
-- **Full Stack Development** (Web & Mobile)
-- **Software Architecture & Tech Leadership**
-- **Scalable Systems & Microservices**
-- **AI & LLM-powered Applications**
-- **Cloud, CI/CD & DevOps**
-- **Government & Enterprise Systems**
+Most of my professional work lives in private repositories under enterprise security and compliance requirements. The projects below are what I can share publicly.
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Projects
 
-### Frontend & Mobile
-- React, Next.js
-- React Native, Ionic, Vue
-- TypeScript, JavaScript, HTML, CSS
+### Sistema Sofia — AI process automation
+🔗 [sistemasofia.com.br](https://sistemasofia.com.br)
 
-### Backend
-- Node.js (Fastify, Express)
-- Java (Spring Boot)
-- PHP (Laravel)
-- C#
-- RESTful APIs, Microservices
+AI-powered platform for business process automation built on a RAG architecture. Handles document ingestion, chunking and embedding, semantic retrieval over a vector store, and grounded LLM responses with observability on every call.
 
-### Databases
-- PostgreSQL, MySQL, Oracle SQL
-- MongoDB, Firebase Firestore
-- Redis, PgVector (Vector Databases)
-
-### Cloud & DevOps
-- AWS, Google Cloud Platform (GCP)
-- Docker, CI/CD Pipelines
-- Jenkins, Buddy CI
-- Observability with Graylog
-
-### AI & Machine Learning
-- OpenAI, Google Gemini
-- LangChain, RAG Systems
-- LLM Fine-tuning
-- OCR, Dialogflow
-
-### Architecture & Patterns
-- SOLID Principles
-- Domain-Driven Design (DDD)
-- Microservices Architecture
-- Secure Authentication (JWT, OAuth2)
+**Stack:** Node.js, Fastify, Python, OpenAI, Gemini, LangChain, PgVector, PostgreSQL, Docker, Jenkins
 
 ---
 
-## 🏢 Professional Experience
+### StayCalc — Schengen stay management
+🔗 [staycalc.com](https://staycalc.com)
 
-### **Senior Software Developer / Tech Lead**  
-**GLOBAL HITSS (Government Systems)**  
+Platform for tracking and forecasting time spent in the Schengen Area, with analytics and AI-assisted insights. Handles the 90/180 rolling-window rule, which is deceptively hard to compute correctly across multiple entries and exits.
 
-- Led the development of a **national government system (SISBI)**.
-- Designed and implemented **frontend and backend architecture** using Java Spring Boot, Oracle SQL, Ionic, and TypeScript.
-- Applied **DDD and SOLID principles** to ensure scalability and maintainability.
-- Implemented **CI/CD pipelines**, centralized logging, and monitoring.
-- Acted as technical leader in **Scrum-based teams**.
+**Stack:** React, Next.js, Supabase, PostgreSQL, Prisma, Docker
 
 ---
 
-### **Senior Full Stack Developer**  
-**LVL Trading (SaaS Platform)**  
+### Mapster — travel social platform
+🔗 [mapster.com.br](https://mapster.com.br)
 
-- Worked on a **high-performance, scalable SaaS platform**.
-- Stack: React, Next.js, Fastify, TypeScript, MySQL.
-- Experience with **AWS and GCP**, async messaging (RabbitMQ, Kafka), Redis caching.
-- CI/CD automation with Jenkins and Buddy CI.
+Social platform for independent travelers, with AI-based recommendations built on user preferences and trip history.
 
----
-
-### **Senior Full Stack Developer / Tech Lead / AI Lead**  
-**Blue Service BPM Platform**  
-
-- Started as **Ionic Specialist**, promoted to **Mobile Tech Lead**, later **AI Squad Lead**.
-- Developed **AI-powered chatbots**, **RAG systems**, and **LLM integrations**.
-- Built microservices with Node.js, Docker, JWT, OAuth2.
-- Hands-on with LangChain, PgVector, OpenAI, Dialogflow, and OCR.
+**Stack:** React, Next.js, Supabase, PostgreSQL, Docker
 
 ---
 
-### **Software Architect**  
-**Rima Industrial S.A.**  
+## Tech Stack
 
-- Joined at 18 and led a **full digital transformation**.
-- Replaced paper-based workflows with a **custom ERP system**.
-- Built the entire architecture using PHP, Laravel, MySQL, Ionic, and TypeScript.
-- Established a fully autonomous internal technology department.
+**AI & LLM**
+OpenAI API · Google Gemini · LangChain · RAG systems · AI agents · LLM fine-tuning · prompt engineering · embeddings · PgVector · vector databases · Langfuse (LLM observability) · OCR
 
----
+**Backend**
+Node.js (Fastify, Express) · Python · Java (Spring Boot) · C#/.NET · REST APIs · microservices · distributed systems
 
-## 🚀 Selected Projects
+**Cloud & DevOps**
+AWS (Lambda, ECS, EKS, VPC, Auto Scaling, ElastiCache) · GCP · Terraform · Docker · Kubernetes · Jenkins · GitHub Actions · Azure DevOps · Graylog
 
-### 🌍 **StayCalc**
-🔗 https://staycalc.com  
-Schengen stay management platform with analytics and AI insights.  
-**Stack:** React, Next.js, Supabase, PostgreSQL, Prisma, Docker.
+**Data**
+PostgreSQL · MySQL · Oracle · MongoDB · Redis · Kafka · RabbitMQ · Databricks · Apache Spark
 
----
+**Frontend**
+React · Next.js · TypeScript · React Native
 
-### 🤖 **Sistema Sofia**
-🔗 https://sistemasofia.com.br  
-AI-powered platform for business process automation with advanced RAG architecture.  
-**Stack:** React, Next.js, Fastify, Node.js, OpenAI, Gemini, Docker, Jenkins.
+**Architecture**
+Microservices · event-driven · SOLID · Domain-Driven Design · Clean Architecture · JWT/OAuth2/SSO
 
 ---
 
-### 🗺️ **Mapster**
-🔗 https://mapster.com.br  
-Social platform for independent travelers with AI-based recommendations.  
-**Stack:** React, Next.js, Supabase, PostgreSQL, Docker.
+## Experience
+
+### AI Tech Lead — Blue Service (BPM Platform)
+Led the AI squad implementing LLM integrations and RAG systems with LangChain and the OpenAI API. Built vector search with PgVector, microservices on Node.js/Fastify/Docker at 99.5% uptime, and secure authentication serving 10,000+ users. AI chatbots and process automation reduced manual work by 35%.
+
+### Senior Solutions Engineer — BlueTicket
+High-scale ticket sales platform sustaining tens of millions of requests at peak. Distributed microservices architecture on Node.js/Fastify, AI chatbot in Python using RAG with Langfuse observability, and AWS infrastructure across Lambda, Auto Scaling, VPC and ElastiCache.
+
+### Senior Software Engineer / Tech Lead — Global Hitss
+National biometric identification system for a Brazilian federal government agency, processing millions of records. Led a cross-functional team of 6 engineers. Java Spring Boot, Oracle SQL, DDD and SOLID, with CI/CD on Jenkins cutting deployment time by 60%.
+
+### Senior Fullstack Developer — LVL Trading
+SaaS trading platform. AWS and GCP infrastructure as code with Terraform, async messaging with Kafka and RabbitMQ, and batch/streaming pipelines on Databricks (Apache Spark).
+
+### Software Architect — RIMA Industrial
+Full digital transformation of an industrial manufacturer. Built a custom ERP from scratch, replacing paper-based workflows and achieving a 40% operational efficiency gain.
 
 ---
 
-## 🎓 Education
+## Education
 
-- **Master’s Degree** – Software Engineering & Strategic Direction
-- **Bachelor’s Degree** – Information Systems
-- **Postgraduate Degrees**:
-  - Artificial Intelligence & Machine Learning
-  - Software Engineering
-  - Mobile Development
-- **Technical Degree** – Computer Science
+- **MSc** — Software Engineering & Strategic Direction, Universidad Europea del Atlántico
+- **BSc** — Information Systems, IFNMG
+- **Postgraduate specializations** — Artificial Intelligence & Machine Learning · Software Engineering & Architecture · Mobile Development
 
 ---
 
-## 🌍 Languages
+## Languages
 
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — B2 (Professional)
-- 🇪🇸 Spanish — B1 (Intermediate)
+Portuguese (native) · English (B2/C1, professional) · Spanish (B1)
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 Email: calexandre496@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/alexandre-cardoso-b47353184
+📧 cardosoregoalexandre@gmail.com
+💼 [linkedin.com/in/alexandre-cardoso-b47353184](https://www.linkedin.com/in/alexandre-cardoso-b47353184)
