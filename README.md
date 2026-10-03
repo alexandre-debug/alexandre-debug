@@ -70,6 +70,20 @@ Portuguese (native) · English (B2/C1, professional) · Spanish (B1)
 
 ## Selected Projects
 
+### LeapMind
+🔗 [leapmindapp.com](https://leapmindapp.com)
+
+iOS, Android and web app that helps parents follow their children's
+development. Parents log everyday moments by voice or text, and an LLM
+pipeline (speech-to-text → behavior extraction → classification →
+deterministic scoring) turns them into development indicators, trends and
+activity suggestions, each backed by the observations that support it,
+with no labels or diagnoses.
+
+**Stack:** React Native, Expo, TypeScript, Node.js, Fastify, PostgreSQL, Redis, BullMQ, OpenAI, Stripe, RevenueCat, Docker
+
+---
+
 ### INTELIBLEND — industrial process & inventory optimization
 🔗 [inteliblend.com](https://www.inteliblend.com/)
 
